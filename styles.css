@@ -1,0 +1,27 @@
+
+body {
+    background-color: rgb(2, 2, 21);
+}
+
+.card {
+    background-color: rgb(11, 11, 68);
+    color: aliceblue;
+    font-size: 21px;
+}
+
+.btn {
+    background-color: rgb(31, 4, 57);
+}
+.navbar {
+    background-color: rgb(1, 1, 145);
+}
+
+.search {
+    padding-left: 250px;
+}
+
+.posi {
+    padding-left: 350px;
+}
+
+ 
